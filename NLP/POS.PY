@@ -6,7 +6,7 @@ import spacy
 
 #download required resources
 nltk.download("punkt")
-nltk.download("averaged_perception_tagger_eng")
+nltk.download("averaged_perceptron_tagger_eng")
 nltk.download("wordnet")
 nltk.download("omw-1.4")
 
