@@ -11,7 +11,7 @@ st.title("🧑‍💼 Job Requirement Extractor")
 
 user_text = st.text_area(
     "Enter job-related text:",
-    placeholder="I am looking for a data science role in Bangalore with 2 years experience at Infosys"
+    placeholder="I am looking for a Data science role in Bangalore with 2 years experience at Infosys"
 )
 
 
