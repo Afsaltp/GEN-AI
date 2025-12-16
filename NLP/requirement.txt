@@ -1,2 +1,8 @@
 NLTK
 spacy 
+streamlit
+pandas
+wordcloud
+matplotlib
+gensin
+gensim
